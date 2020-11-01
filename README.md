@@ -1,9 +1,12 @@
-### Hi there 👋
+✨ WELCOME ✨ 
+
+👾 GRADUANDA EM CIêNCIA DA COMPUTAÇÃO - IESB
+ 🏝 CARIOCA-RJ
+📍 BRASÍLIA-DF
 
 <!--
-✨ BEM-VINDO ✨ 
 
-- 👾 GRADUANDA EM CIêNCIA DA COMPUTAÇÃO - IESB
+
 - 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
