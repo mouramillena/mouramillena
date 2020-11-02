@@ -6,8 +6,9 @@
 📍 Brasília - DF </br>
 🔓🔑 3KM _ 🔓🔑 5KM _ 🔐 7KM _ 🔐 10KM </br>
 
- "Você não é obrigado a vencer. Você é obrigado a continuar a tentar fazer o melhor que puder a cada dia." </br>
- #CHIVUNK
+💭 "Você não é obrigado a vencer. Você é obrigado a continuar a tentar fazer o melhor que puder a cada dia." </br></br>
+ 
+ ☠CHIVUNK
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55&text=Olá!)](https://api.whatsapp.com/send?phone=5561&text=Olá!)
