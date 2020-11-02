@@ -1,7 +1,7 @@
 ✨ BEM-VINDO ✨ 
 
-💁‍♀️ Técnica em Informática - Colégio Lemos de Castro(RJ) </br>
-👾 Graduanda em Ciência da Computação - IESB(DF) </br>
+💁‍♀️ Técnica em Informática - Colégio Lemos de Castro (RJ) </br>
+👾 Graduanda em Ciência da Computação - IESB (DF) </br>
 🏝 Carioca - RJ </br>
 📍 Brasília - DF </br>
 🔓🔑 3KM _ 🔓🔑 5KM _ 🔐 7KM _ 🔐 10KM </br>
