@@ -1,8 +1,13 @@
 ✨ WELCOME ✨ 
 
-👾 GRADUANDA EM CIêNCIA DA COMPUTAÇÃO - IESB </br>
-🏝 CARIOCA-RJ
-📍 BRASÍLIA-DF
+💁‍♀️ TÉCNICA EM INFORMÁTICA - Colégio Lemos de Castro(RJ) </br>
+👾 GRADUANDA EM CIÊNCIA DA COMPUTAÇÃO - IESB(DF) </br>
+🏝 CARIOCA-RJ </br>
+📍 BRASÍLIA-DF </br>
+🔓🔑 3KM _ 🔓🔑 5KM _ 🔐 7KM _ 🔐 10KM 
+
+
+
 
 <!--
 
