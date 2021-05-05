@@ -7,6 +7,7 @@
 - 🔓🔑 3KM _ 🔓🔑 5KM _ 🔐 7KM _ 🔐 10KM
 
 💭 "Você não é obrigado a vencer. Você é obrigado a continuar a tentar fazer o melhor que puder a cada dia." </br></br>
+🦾 "O conhecimento é uma costrução diária, então dedicação e raça é mais que obrigação."
  
  ☠CHIVUNK
  
