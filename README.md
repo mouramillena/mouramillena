@@ -11,12 +11,12 @@
  
  ☠CHIVUNK
  
- #### ⚡ TECH'S ⚡
+ #### ⚡TECH'S LEARNING⚡
  
  - C
  - PHP
- - Phyton (Learning)
- - Kotlin (Learning)
+ - Phyton
+ - Kotlin
  - HTML
  - CSS
  - Photoshop
